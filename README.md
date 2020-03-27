@@ -7,6 +7,8 @@
   <a target="_blank" href="http://android-arsenal.com/details/1/3094"><img src="https://img.shields.io/badge/Android%20Arsenal-AppUpdater-blue.svg"></a>
 </p>
 
+[![ci][1]][2]
+
 <p align="center">Android Library that checks for updates on Google Play, GitHub, Amazon, F-Droid or your own server. This library notifies your apps' updates by showing a Material dialog, Snackbar or notification. Check out the <a href="https://github.com/javiersantos/AppUpdater/wiki">wiki</a>.</p>
 
 ## Sample Project
@@ -166,3 +168,6 @@ appUpdaterUtils.start();
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
+
+[1]: https://github.com/javiersantos/AppUpdater/workflows/ci/badge.svg
+[2]: https://github.com/javiersantos/AppUpdater/actions
