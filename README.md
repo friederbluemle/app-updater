@@ -169,5 +169,5 @@ appUpdaterUtils.start();
 	See the License for the specific language governing permissions and
 	limitations under the License.
 
-[1]: https://github.com/javiersantos/AppUpdater/workflows/ci/badge.svg
-[2]: https://github.com/javiersantos/AppUpdater/actions
+[1]: https://github.com/friederbluemle/app-updater/workflows/ci/badge.svg
+[2]: https://github.com/friederbluemle/app-updater/actions
